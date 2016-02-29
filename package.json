@@ -1,0 +1,29 @@
+{
+  "name": "hello-word",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lt-fed/hello-word.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "yuji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lt-fed/hello-word/issues"
+  },
+  "homepage": "https://github.com/lt-fed/hello-word#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  },
+  "dependencies": {
+    "node-fetch": "^1.3.3"
+  }
+}
